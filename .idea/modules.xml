@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../O1_Spring_Core/O1_Spring_Core.iml" filepath="$PROJECT_DIR$/../O1_Spring_Core/O1_Spring_Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../O2_Bean_Scopes/O2_Bean_Scopes.iml" filepath="$PROJECT_DIR$/../O2_Bean_Scopes/O2_Bean_Scopes.iml" />
     </modules>
   </component>
 </project>
