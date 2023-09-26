@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="O1_Spring_Core" />
+        <module name="O8_Spring_Environment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="O1_Spring_Core" target="8" />
+      <module name="O8_Spring_Environment" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
